@@ -1,4 +1,5 @@
 Temperatue & Humidity Monitor
+
 This project implements an ESP32-based DHT server to monitor temperature and humidity, displaying real-time data on a web interface. The firmware is written in C++, utilizing libraries such as WiFi.h, WebServer.h, and DHT.h to handle WiFi connectivity, web server functionality, and sensor interfacing, respectively.
 
 Features:
